@@ -10,4 +10,4 @@ GEMINI_MODEL = "gemini-3.5-flash-lite"
 
 [[kv_namespaces]]
 binding = "KV"
-id = ""
+id = "80662b8c811e4e799673cfcf62493247"
